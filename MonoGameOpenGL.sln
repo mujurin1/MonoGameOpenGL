@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameOpenGL", "MonoGameOpenGL\MonoGameOpenGL.csproj", "{73584BC8-E260-4004-864A-8D386D2C7765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameEx", "MonoGameEx\MonoGameEx.csproj", "{413AB5EC-364B-49D0-BA64-CAC120D05A12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73584BC8-E260-4004-864A-8D386D2C7765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73584BC8-E260-4004-864A-8D386D2C7765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73584BC8-E260-4004-864A-8D386D2C7765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73584BC8-E260-4004-864A-8D386D2C7765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{413AB5EC-364B-49D0-BA64-CAC120D05A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413AB5EC-364B-49D0-BA64-CAC120D05A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413AB5EC-364B-49D0-BA64-CAC120D05A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413AB5EC-364B-49D0-BA64-CAC120D05A12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFE3C959-8C71-4970-9108-DE87215BBA13}
+	EndGlobalSection
+EndGlobal
